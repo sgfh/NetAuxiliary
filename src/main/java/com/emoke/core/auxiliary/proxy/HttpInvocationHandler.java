@@ -4,7 +4,7 @@ import com.emoke.core.auxiliary.annotation.*;
 import com.emoke.core.auxiliary.http.HttpUtil;
 import com.emoke.core.auxiliary.resp.HttpResp;
 import com.emoke.core.auxiliary.selector.ParameterSelector;
-import org.apache.http.util.TextUtils;
+import com.emoke.core.auxiliary.util.TextUtils;
 
 import java.io.File;
 import java.lang.annotation.Annotation;
